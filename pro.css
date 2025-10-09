@@ -1,0 +1,173 @@
+.seg1{
+    background-color: black;
+    height: 400px;
+}
+
+h3{
+    display: inline;
+    margin-left: 200px;
+    
+}
+
+.h{
+    margin-top: 100px;
+}
+.bar{
+    display: inline;
+    margin-left: 600px;
+    padding-top: 10px;
+}
+.bar>ul{
+    display: inline;
+}
+.bar>ul>li{
+    display: inline;
+    margin-left: 5px;
+    margin-right: 5px;
+    color: white;
+}
+
+.bigbox{
+    display: flex;
+    padding-top: 50px;
+    
+    justify-content: center;
+}
+
+.smallbox1{
+    width: 37%;
+    color: white;
+}
+
+.smallbox2{
+    width: 37%;
+    
+}
+
+.box2{
+    display: flex;
+    background-color: grey;
+    justify-content: center;
+    height: 250px;
+    width: 97%;
+}
+
+.image{
+    padding-top: 97px;
+}
+
+.smallbox1>.title{
+    width: 40%;
+}
+
+.smallbox1>.title2{
+    width: 70%;
+}
+
+
+.button{
+    background-color: blue;
+    color: white;
+    height: 40px;
+    width:20%;
+    border-radius: 10px;
+}
+
+
+
+
+.seg2{
+    background-color: white;
+    height: 400px;
+    
+}
+
+.title3{
+    padding-left: 600px;
+}
+
+.b01{
+    border-style: solid;
+    width: 140px;
+    height: 140px;
+    border-radius: 10px;
+    border-color: rgb(55, 55, 201);
+    margin-right: 70px;
+}
+
+.b{
+    padding-top: 130px;
+}
+
+.line{
+    padding-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.seg3{
+    background-color: lightgrey;
+    height: 400px;
+}
+
+.text1{
+    padding-top: 140px;
+    padding-left: 300px;
+    width: 60%;
+    font-size: xx-large;
+    font-style: italic;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.seg4{
+    height: 280px;
+    background-color:white;
+    justify-items: center;
+    
+}
+.box4{
+    width:80%;
+    height: 180px;
+    background-color: rgb(44, 150, 243);
+    margin-top: 100px;
+    margin-left: 300px;
+    margin-right: 300px;
+    border-radius: 10px;
+    display:flex;
+    al
+}
+
+.t1{
+    width: 50%;
+    color:white;
+    padding-left:150px;
+    padding-top:40px;
+    justify-content:center;
+    font-size:x-large;
+}
+
+.t2{
+    width: 70px;
+    align-content: center;
+    padding-left: 200px;
+}
+
+.butt{
+    color: white;
+    background-color:rgb(44, 150, 243) ;
+    border-style: solid;
+    border-color: white;
+    border-radius: 10px;
+    width: 120px;
+    height: 40px;
+}
+.seg5{
+    background-color: black;
+    height: 100px;
+}
+
+.text5{
+    font-size: larger;
+    padding-left: 580px;
+    padding-top: 40px;
+}
