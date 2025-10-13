@@ -1,0 +1,18 @@
+body{
+    background-image: url(net.jpg);
+    background-size: cover;
+}
+
+
+.title{
+    color: red;
+}
+.background{
+    align-items: center;
+}
+.t{
+    display: flex;
+    color: white;
+    background-color: antiquewhite;
+    justify-content: center;
+}
