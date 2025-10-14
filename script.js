@@ -98,3 +98,12 @@ fetchPosts();
 let name = "viswa";
 let age = "23"
 console.log(`My name is ${name} and age is ${age}`);
+
+
+//micro and macro tasks
+console.log("first");
+Promise.resolve().then(console.log("from promises"));
+setTimeout(()=>{
+    console.log("inside timeout");
+},2000);
+console.log("last");
